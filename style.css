@@ -59,6 +59,12 @@ a {
 } */
 
 /* Header styling */
+
+header {
+    overflow: hidden;
+}
+
+
 .navbar {
     height: 100px;
     /* background-color: #EAECEE; */
