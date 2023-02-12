@@ -9,6 +9,10 @@ body {
     background-color: #EAECEE
 }
 
+body, html {
+    overflow-x: hidden;
+}
+
 ul {
     list-style-type: none;
     padding: 0;
