@@ -60,35 +60,21 @@ a {
 
 /* Header styling */
 
-header {
-    overflow: hidden;
-}
 
 
 .navbar {
     height: 100px;
-    /* background-color: #EAECEE; */
-    /* border-bottom: solid 1px #3490dc; */
+    overflow: hidden;
+
 
 }
 
 
-/* .logo-container img {
-    height: 100px;
-    width: 100px;
-} */
-
-/* #home {
-    margin-left: 50px;
-} */
 
 .active {
     color: red;
 }
 
-/* .logo-container img {
-    border-radius: 50%;
-} */
 
 .hero {
     position: relative;
