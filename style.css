@@ -139,6 +139,10 @@ a {
 
 /* End of header styling */
 
+main {
+    width: 100%;
+}
+
 
 /* About Section */
 .about-us {
@@ -311,7 +315,7 @@ a {
     grid-column: 1 / span 4;
     text-align: center;
     border-top: 1px solid #444;
-    padding: .5rem 0 0 0;
+    padding: .5rem 0;
 }
 
 
